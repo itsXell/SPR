@@ -1,3 +1,7 @@
+# VMS WAD Final Exam
+
+This is react app for final exam in class CS3453 WEB Application Development
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
